@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.exe
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.deps.json
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.runtimeconfig.json
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.dll
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\bin\Debug\netcoreapp3.1\SANDBOX.pdb
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.dll
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.pdb
+C:\Users\CGreene1\source\repos\SANDBOX\SANDBOX\obj\Debug\netcoreapp3.1\SANDBOX.genruntimeconfig.cache
